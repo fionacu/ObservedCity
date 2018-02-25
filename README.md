@@ -1,4 +1,4 @@
-# kickstart-the-city
+# Kickstart the city
 
 Hello and welcome. Bienvenue. Wilkommen. Selamat datang (practising my Indonesian there).
 
