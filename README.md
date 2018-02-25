@@ -12,7 +12,7 @@ Contents might include: local listings for workshops and talks, reviews of art e
 
 I also hope that new alliances and activities will be created from building a collaborative community around this topic.
 
-I've started a list of tasks in the Roadmap section https://github.com/fionacu/kickstart-the-city/blob/master/roadmap - the initial phase is all about R&D and finding people with expertise in community building, but there will also be opportunities to get involved in the editorial side, the design of the email and other related content hubs. 
+I've started a list of tasks in the [Roadmap section](https://github.com/fionacu/kickstart-the-city/blob/master/roadmap) - the initial phase is all about R&D and finding people with expertise in community building, but there will also be opportunities to get involved in the editorial side, the design of the email and other related content hubs. 
 
 At a wider geographical level, I want to provide end-documentation of how to 'kickstart the city' for others to follow and I'm open to ideas and feedback on how best to do that.
 
