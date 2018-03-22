@@ -1,11 +1,11 @@
-CONTENT LICENCE
+# CONTENT LICENCE
 
 Except where noted for the copyright of others, content is lincensed as:
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-[Summary] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[Summary](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-SOFTWARE LICENSE
+# SOFTWARE LICENSE
 
 MIT License
 
