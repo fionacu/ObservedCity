@@ -2,7 +2,7 @@
 
 **Observed.City is Birmingham UK’s first email newsletter covering data privacy, art, tech and activism. It is new in the space and will connect activity and engage new audiences in an easy and direct way. My aim is to make data privacy more accessible, engaging and FUN!**
 
-#Hello and welcome! 
+# Hello and welcome! 
 
 Also Bienvenue. Wilkommen. Selamat datang (practising my Indonesian there).
 
