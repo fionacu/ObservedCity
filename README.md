@@ -32,12 +32,12 @@ My city, like many others, lacks:
 ## Who is behind this project?
 My name is Fiona and I'm a (former) journalist and digital content editor working in Birmingham, UK. I am doing this alone but I aim to find more editors to help make this project sustainable. 
 
-I am being mentored through the Mozilla Open Leaders Project by Rachael Ainsworth, radio astronomer, open science champion, organiser of HER+Data community in Manchester, England, and former Mozilla Open Leader: [github] (https://github.com/rainsworth).
+I am being mentored through the Mozilla Open Leaders Project by Rachael Ainsworth, radio astronomer, open science champion, organiser of HER+Data community in Manchester, England, and former Mozilla Open Leader: [github](https://github.com/rainsworth).
 
 ## How to help
 I've started a list of tasks in the [Roadmap section](https://github.com/fionacu/kickstart-the-city/blob/master/roadmap) - the initial phase is all about R&D, finding people with expertise in community building and getting a first email out for feedback, but there will also be opportunities to get involved in the editorial side, the design of the project and content ideas. 
 
-1. Feedback/thoughts – the launch issue has just gone out (22 March): [Observed.City] (http://observed.city) General feedback/advice would be great – you can get in touch by email (contact details below).
+1. Feedback/thoughts – the launch issue has just gone out (22 March): [Observed.City](http://observed.city) General feedback/advice would be great – you can get in touch by email (contact details below).
 
 2. Community building – I need to build subscribers and get the word out. I've launched – so what are the next steps to maximise reach?
 
