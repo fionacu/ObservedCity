@@ -59,4 +59,4 @@ If you have any question about the project or any suggestions for improvement, p
 
 Thanks for reading. Merci beaucoup. Vielen dank. Terima kasih banyak.
 
-Ciao!
+Ciao for now!
