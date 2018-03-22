@@ -2,13 +2,13 @@
 
 **Observed.City is Birmingham UK’s first email newsletter covering data privacy, art, tech and activism. It is new in the space and will connect activity and engage new audiences in an easy and direct way. My aim is to make data privacy more accessible, engaging and FUN!**
 
-##Hello and welcome! 
+#Hello and welcome! 
 
 Also Bienvenue. Wilkommen. Selamat datang (practising my Indonesian there).
 
 Thank you for visiting the Observed.City project – you are kindly invited to join  and help develop this venture. Although this project is based in my hometown, I will produce end documentation to help others Kickstart the data privacy conversation in their own towns, cities and regions.
 
-##The challenge
+## The challenge
 
 My city, like many others, lacks: 
 
@@ -19,7 +19,7 @@ My city, like many others, lacks:
 3. Connection – things are happening but they are not well linked up or promoted.
 
 
-##The solution
+## The solution
 
 1. To launch an email newsletter that curates interesting events and happenings.
 
@@ -27,12 +27,12 @@ My city, like many others, lacks:
 
 3. To build a community of experts (data researchers, academics, artists and activists) and citizens who want to learn the basics of online privacy.
 
-##Who is behind this project?
+## Who is behind this project?
 My name is Fiona and I'm a (former) journalist and digital content editor working in Birmingham, UK. I am doing this alone but I aim to find more editors to help make this project sustainable.
 
 I am being mentored through the Mozilla Open Leaders Project by Rachael Ainsworth, radio astronomer, open science champion and organiser of HER+Data community in Manchester, England. Here is her [github] (https://github.com/rainsworth).
 
-##How to help
+## How to help
 I've started a list of tasks in the [Roadmap section](https://github.com/fionacu/kickstart-the-city/blob/master/roadmap) - the initial phase is all about R&D and finding people with expertise in community building, but there will also be opportunities to get involved in the editorial side, the design of the email and other related content hubs. 
 
 1. Feedback/thoughts – the launch issue has just come out: [Observed.City] (http://observed.city) General feedback/advice would be great. Email observedcity@protonmail.com
@@ -51,7 +51,7 @@ I've started a list of tasks in the [Roadmap section](https://github.com/fionacu
 
 8. What haven't I thought of?
 
-##Get in touch
+## Get in touch
 If you have any question about the project or any suggestions for improvement, please open an issue at this github repository and I will respond as soon as I can. You may also contact Fiona by email (observedcity@protonmail.com) or on Twitter @katchooo.
 
 
