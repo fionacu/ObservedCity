@@ -24,4 +24,4 @@ If you believe you‘re experiencing practices which don‘t meet the above poli
 
 ## Working in the Open
 
-Planning for the Observed City project is being done in the open on the [Kickstart the city Github] (https://github.com/fionacu/kickstart-the-city). I hope participants will benefit from this culture of transparency and collaboration.
+Planning for the Observed City project is being done in the open on the [Kickstart the city Github](https://github.com/fionacu/kickstart-the-city). I hope participants will benefit from this culture of transparency and collaboration.
