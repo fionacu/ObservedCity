@@ -35,7 +35,7 @@ My name is Fiona and I'm a (former) journalist and digital content editor workin
 I am being mentored through the Mozilla Open Leaders Project by Rachael Ainsworth, radio astronomer, open science champion, organiser of HER+Data community in Manchester, England, and former Mozilla Open Leader: [github](https://github.com/rainsworth).
 
 ## How to help
-I've started a list of tasks in the [Roadmap section](https://github.com/fionacu/kickstart-the-city/blob/master/roadmap.md) - the initial phase is all about R&D, finding people with expertise in community building and getting a first email out for feedback, but there will also be opportunities to get involved in the editorial side, the design of the project and content ideas. Please also read this [Code of conduct](https://github.com/fionacu/kickstart-the-city/blob/master/CODE_OF_CONDUCT.md) before contributing.
+I've started a list of tasks in the [Roadmap section](https://github.com/fionacu/kickstart-the-city/blob/master/Roadmap.md) - the initial phase is all about R&D, finding people with expertise in community building and getting a first email out for feedback, but there will also be opportunities to get involved in the editorial side, the design of the project and content ideas. Please also read this [Code of conduct](https://github.com/fionacu/kickstart-the-city/blob/master/CODE_OF_CONDUCT.md) before contributing.
 
 1. Feedback/thoughts – the launch issue has just gone out (22 March): [Observed.City](http://observed.city) General feedback/advice would be great – you can get in touch by email (contact details below).
 
