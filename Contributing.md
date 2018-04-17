@@ -1,10 +1,10 @@
 # Contributing to Observed City
 
-Hello and welcome. It’s great to have you here! My name is Fiona, I’m a writer/editor from Birmingham UK, and I’m the sole person running this project – at this point. I need help! I hope you can help…
+Hello and welcome. It’s great to have you here! My name is Fiona, I’m a writer/editor from Birmingham UK, and I’m the sole person running this project – at this point. I need help (and feedback)! I hope you can help (and feed back!)…
 
-The core of my project is to launch Birmingham UK’s first email newsletter covering data privacy, art, tech and activism. My aim is simple: to connect existing activity, build a collaborative network of local datanauts and to make data privacy easier for citizens to engage with – maybe even fun!
+The core of my project is to launch Birmingham UK’s first email newsletter covering data privacy, art, tech and activism. My aim is simple: to connect existing activity, build a collaborative network of local datanauts and to make data privacy easier for citizens to engage with – maybe even fun! UPDATE: the newsletter has now launched – [you can sign-up here](https://tinyletter.com/ObservedCity/).
 
-Observed City launched on 22 March 2018 with a basic newsletter (and website, Twitter, Facebook group), so that contributors can more easily see what I’m doing. I want to make it better – and that’s where I hope you can help.
+Observed City launched on 22 March 2018 with a basic [newsletter](https://tinyletter.com/ObservedCity/) – and [website](http://observed.city), [Twitter](https://twitter.com/ObservedCity), [Facebook closed discussion group](https://www.facebook.com/groups/observedcity/) – so that contributors can more easily see what I’m doing. From here on, I want to make it better – and that’s where I hope you can help.
 
 This document offers a set of guidelines for contributing to Observed City on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
