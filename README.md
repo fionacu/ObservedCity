@@ -1,6 +1,6 @@
 # Observed.City
 
-**[Observed.City](http://observed.city) is Birmingham UK’s first email newsletter covering data privacy, art, tech and activism. It is new in the space and will connect activity and engage new audiences in an easy and direct way. My aim is to make data privacy more accessible, engaging and FUN! The newsletter is now live – you can [sign up here](https://tinyletter.com/ObservedCity/) **
+**[Observed.City](http://observed.city) is Birmingham UK’s first email newsletter covering data privacy, art, tech and activism. It is new in the space and will connect activity and engage new audiences in an easy and direct way. My aim is to make data privacy more accessible, engaging and FUN! March 2018 update: The newsletter is now live – you can [sign up here](https://tinyletter.com/ObservedCity/) **
 
 # Hello and welcome! 
 
