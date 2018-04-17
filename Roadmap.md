@@ -1,25 +1,31 @@
 
-# Short term (R&D)
+As I go through the Mozilla Open Leadership programme, I'm in the process of turning this roadmap into end documentation for others – as a how-to guide to kickstarting the data privacy conversation in their cities:
 
-* Compile list of events, organisations and online activities in Birmingham UK (data privacy, data research, art, tech, activism)
-* Research email providers (Mailchimp, Tinyletter, others?) – pros and cons
-* Decide on email title (this is the main comms area but also has to work on other platforms, eg, website, Facebook).
-* Decide on regularity (once or twice monthly)
-* Expertise – talk to local experts who are familiar with newsletters/community building.
+# Short term (Research & development phase)
+* Fill out an Open Canvas outlining your aims for the project, the problem you are aiming to solve, the needs and resources, and target users and contributors. Here is an example showing the [open canvas for ObservedCity](https://github.com/fionacu/ObservedCity/blob/master/MOLP-open-canvas.pdf)
+* Content calendar – compile list of events and online activities in your area (data privacy, data research, art, tech, activism). Place events under each month on a calendar doc; extract interesting people and organisations for potential contacts. Subscribe to newsletters that are relevant to your project.
+* Contacts/network list – find everyone you should connect with in your area who are working with data/privacy in some way or run relevant events: university researchers and academics, privacy activists, digital artists, curators and galleries, a local Open Rights Group, Meetup.com groups, Chamber of Commerce, local government initiatives helping businesses with big data, 'smart city' groups, police and neighbourhood alerts, potential contributors, hacker groups, coding clubs, local Mozilla Campuses, tech drinks and meetups, open data groups, relevant social enterprise startups, ImpactHub, collectives and coops, event organisers. 
+* Research email providers – how will you distribute your email? I looked Mailchimp and Tinyletter's pros and cons. I chose Tinyletter for a more personal curated feel and an easy introduction to email setup; I may move to Mailchimp if I change the tone or go in a new direction with the content.
+* Decide on the title of your newsletter – does it need to work across other platforms, such as a website or social media? If so, check the name is available for use in these environments. Look for a name that suggests the content, eg, Observed.City suggests surveillance, privacy and that I'm looking at what is happening in my city. Try to choose a memorable and engaging name – maybe avoid the word 'data' as this can make for a dull word that turns people off subscribing. If you want to keep it hyperlocal, add the name of your area or city into the title of the newsletter; if you want to potentially reach a wider audience, this may be limiting. Sometimes you don't know what your project is going to be until you start – it's ok to change the name later; the important thing is to start!
+* Decide on regularity – this will depend on your resource/time but you could do a shorter email weekly, a medium email monthly, or even quarterly. I'm aiming for every two weeks and trying to keep it shorter
+* Expertise, experience and mentors – if you don't know how to start a newsletter or how to build a community of subscribers, find and talk to people who have done it. For example, I took the editor of IChooseBirmingham listings email (17,000 weekly subscribers) for coffee and learnt more in an hour than I ever could have learned online (thankyou Tom!). You may even be able to find a mentor of whom you can ask questions as you go along. Meeting people in real life both helps build community and gets experienced people on board with your project. 
 
 # Medium term (set up, soft launch)
-* Set up email newsletter account and create/upload content 
-* Set up related Twitter, Facebook page and website – the discussion/comment areas
-* Decide on format of email and content to include 
-* Create launch email and start to figure out needs - issues posted
-* Start to build community – users and contributors – connect through social media channels and networking with organisers
-* Logo/header – basic design 
+* Consider setting up a new email account if you want to keep your newsletter project separate from your personal/business email. I used Protonmail and the name of the project: observedcity@protonmail.com - unfortunately this caused some delivery issues in Tinyletter as Protonmail is very tight on its privacy and was triggering spam alerts, so I had to change it to an alternative email that did work.
+* Set up a newsletter account with your chosen service – go through all the account settings and fill in any blanks.   
+* Set up related accounts, eg, a Twitter, Facebook page and website for your project – these may form your future discussion/comment/feedback areas and somewhere to upload blog content. You can keep it basic for now but it still takes some time to set up, to write the about/bios, add links to your project, upload a picture or logo, and cross-link between these different sites. 
+* Decide on the format of email and content to include – what kind of things do you want to write, what does your target audience want to know, how will you make it engaging and easy to read, do you need images, do you want to have an informal conversation tone or a more professional corporate style, what do you like in the newsletters you receive, what makes you open these?  
+* If working open (as I did on this project), create your Github repo or shared Google doc, and start to document your project – what it is about, how people can contribute, how the work is licenced, issues you need to resolve, etc. Here is the [ObservedCity repo](https://github.com/fionacu/ObservedCity) so you can see and fork/duplicate the content.
+* Start to build community – both users and contributors – start to connect and follow your contacts list through social media channels, subscribe to their newsletters, network at events, tell people about your project, email people directly if you think they will be interested, consider arranging a coffee meet with potential contributors.
+* Logo/header – basic design - there's a lot you can do with editing software, such as Preview and Photoshop, to get a look/feel for your newsletter's title. You can also source Creative Commons images for use in your headers/banners, foe example, I used a great image from Pixabay in return for buying the photographer a virutal coffee.
+* Start! Do a first draft so you can visualise what your newsletter will look like and how much time it takes to create it. Send yourself a test email. Get a friend to read it over with their fresh eyes. Amend, check links work and finalise. At this point, if you like what you've done – why not send it out and start to get feedback and subscribers? You could also do a soft launch where you send it to a small group of people – friends/family – to get their feedback. Getting the perfect newsletter takes time – months and years even to build up a community of readers. Don't get too bogged down in the set up phase - you can iterate and improve as you go.
+* Note: I have a background in publishing so I have a basic understanding of media law around issues such as copyright, plagiarism and defamation (libel), and data protection. I recommend you read up on these in order to protect yourself as a new publisher. 
 
 # Long term (launch)
-* Logo/header – outsource design 
-* Populate online content areas - ideas for content? Possible coding/data mining required.
-* Populate and launch email (first issue out March 22)
-* Get the word out / community building - email experts directly to ask them to share to their netowrk?
-* Refine/improve launch email - ask for feedback
+* Logo/header – outsource design for a more professional look. 
+* Update and monitor Github repo - especially if looking for feedback and contributors when submitting project to hackathons, the Global Sprint, Hackfest, etc.
+* Populate online content areas - ideas for content, attend and review events, seek editorial contributors, create original content, possible coding to help with this?
+* Refine/improve launch email – ask for feedback and iterate.
+* Get the word out / community building / outreach work - how can you get your newsletter to interested people?
 * Scale - end documentation for other end users, how to start conversation in other cities
-* Sustainability/governance - guest editor
+* Sustainability/governance - find guest editors and proofreaders, check resource/times, regularity of email.
