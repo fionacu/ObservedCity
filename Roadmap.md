@@ -1,7 +1,7 @@
 
 As I go through the Mozilla Open Leadership programme, I'm in the process of turning this roadmap into end documentation for others – as a how-to guide to kickstarting the data privacy conversation in their cities:
 
-# Short term (Research & development phase)
+# Short term (research & development)
 * Fill out an Open Canvas outlining your aims for the project, the problem you are aiming to solve, the needs and resources, and target users and contributors. Here is an example showing the [open canvas for ObservedCity](https://github.com/fionacu/ObservedCity/blob/master/MOLP-open-canvas.pdf)
 * Content calendar – compile list of events and online activities in your area (data privacy, data research, art, tech, activism). Place events under each month on a calendar doc; extract interesting people and organisations for potential contacts. Subscribe to newsletters that are relevant to your project.
 * Contacts/network list – find everyone you should connect with in your area who are working with data/privacy in some way or run relevant events: university researchers and academics, privacy activists, digital artists, curators and galleries, a local Open Rights Group, Meetup.com groups, Chamber of Commerce, local government initiatives helping businesses with big data, 'smart city' groups, police and neighbourhood alerts, potential contributors, hacker groups, coding clubs, local Mozilla Campuses, tech drinks and meetups, open data groups, relevant social enterprise startups, ImpactHub, collectives and coops, event organisers. 
@@ -21,7 +21,7 @@ As I go through the Mozilla Open Leadership programme, I'm in the process of tur
 * Start! Do a first draft so you can visualise what your newsletter will look like and how much time it takes to create it. Send yourself a test email. Get a friend to read it over with their fresh eyes. Amend, check links work and finalise. At this point, if you like what you've done – why not send it out and start to get feedback and subscribers? You could also do a soft launch where you send it to a small group of people – friends/family – to get their feedback. Getting the perfect newsletter takes time – months and years even to build up a community of readers. Don't get too bogged down in the set up phase - you can iterate and improve as you go.
 * Note: I have a background in publishing so I have a basic understanding of media law around issues such as copyright, plagiarism and defamation (libel), and data protection. I recommend you read up on these in order to protect yourself as a new publisher. 
 
-# Long term (launch)
+# Long term (launch and beyond)
 * Logo/header – outsource design for a more professional look. 
 * Update and monitor Github repo - especially if looking for feedback and contributors when submitting project to hackathons, the Global Sprint, Hackfest, etc.
 * Populate online content areas - ideas for content, attend and review events, seek editorial contributors, create original content, possible coding to help with this?
