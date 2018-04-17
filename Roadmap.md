@@ -28,4 +28,4 @@ As I go through the Mozilla Open Leadership programme, I'm in the process of tur
 * Refine/improve launch email – ask for feedback and iterate.
 * Get the word out / community building / outreach work - how can you get your newsletter to interested people?
 * Scale - end documentation for other end users, how to start conversation in other cities
-* Sustainability/governance - find guest editors and proofreaders, check resource/times, regularity of email.
+* Sustainability/governance - find guest editors and proofreaders, check resource/times, regularity of email. 
