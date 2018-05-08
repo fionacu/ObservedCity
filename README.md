@@ -37,7 +37,7 @@ I am being mentored through the Mozilla Open Leaders Project by Rachael Ainswort
 ## How to help
 I've started a list of tasks in the [Roadmap section](https://github.com/fionacu/kickstart-the-city/blob/master/Roadmap.md) - the initial phase is all about R&D, finding people with expertise in community building and getting a first email out for feedback, but there will also be opportunities to get involved in the editorial side, the design of the project and content ideas. Please also read this [Code of conduct](https://github.com/fionacu/kickstart-the-city/blob/master/CODE_OF_CONDUCT.md) before contributing.
 
-1. Feedback/thoughts – the launch issue has just gone out (22 March): [Observed.City](http://observed.city) General feedback/advice would be great – you can get in touch by email (contact details below).
+1. Feedback/thoughts – the launch issue went out (22 March) and I have just sent out issue 3. The website is at [Observed.City](http://observed.city) and the [newsletter archive](https://tinyletter.com/ObservedCity/archive) is where you can read back issues. General feedback/advice would be great – you can get in touch by email (contact details below).
 
 2. Community building – I need to build subscribers and get the word out. I've launched – so what are the next steps to maximise reach?
 
