@@ -24,7 +24,7 @@ As I go through the Mozilla Open Leadership programme, I'm in the process of tur
 # Long term (launch and beyond)
 * Logo/header – outsource design for a more professional look. 
 * Update and monitor Github repo - especially if looking for feedback and contributors when submitting project to hackathons, the Global Sprint, Hackfest, etc.
-* Populate online content areas - ideas for content, attend and review events, seek editorial contributors, create original content, possible coding to help with this?
+* Populate online content areas - ideas for content, attend and review events, seek editorial contributors, ask for help via social media, create original content, possible coding to help with this?
 * Refine/improve launch email – ask for feedback and iterate.
 * Get the word out / community building / outreach work - how can you get your newsletter to interested people?
 * Scale - end documentation for other end users, how to start conversation in other cities
