@@ -1,5 +1,5 @@
 
-Post-Mozilla Open Leadership programme, I've turned this roadmap into end documentation into a how-to guide to kickstarting the data privacy conversation in other cities:
+Post-Mozilla Open Leadership programme, I've turned this roadmap into a how-to guide for launching your own newsletters and kickstarting the data privacy conversation in your city. 
 
 # Short term (research & development)
 * Fill out an Open Canvas outlining your aims for the project, the problem you are aiming to solve, the needs and resources, and target users and contributors. Here is an example showing the [open canvas for ObservedCity](https://github.com/fionacu/ObservedCity/blob/master/MOLP-open-canvas.pdf)
