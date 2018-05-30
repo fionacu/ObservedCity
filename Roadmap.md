@@ -1,5 +1,5 @@
 
-As I go through the Mozilla Open Leadership programme, I'm in the process of turning this roadmap into end documentation for others – as a how-to guide to kickstarting the data privacy conversation in other cities:
+Post-Mozilla Open Leadership programme, I've turned this roadmap into end documentation into a how-to guide to kickstarting the data privacy conversation in other cities:
 
 # Short term (research & development)
 * Fill out an Open Canvas outlining your aims for the project, the problem you are aiming to solve, the needs and resources, and target users and contributors. Here is an example showing the [open canvas for ObservedCity](https://github.com/fionacu/ObservedCity/blob/master/MOLP-open-canvas.pdf)
@@ -22,10 +22,10 @@ As I go through the Mozilla Open Leadership programme, I'm in the process of tur
 * Note: I have a background in publishing so I have a basic understanding of media law around issues such as copyright, plagiarism and defamation (libel), and data protection. I recommend you read up on these in order to protect yourself as a new publisher. 
 
 # Long term (launch and beyond)
-* Logo/header – outsource design for a more professional look. 
-* Update and monitor Github repo - especially if looking for feedback and contributors when submitting project to hackathons, the Global Sprint, Hackfest, etc.
-* Populate online content areas - ideas for content, attend and review events, seek editorial contributors, ask for help via social media, create original content, possible coding to help with this?
+* Update and monitor Github repo - submit project and requests for help to hackathons: the Global Sprint, Hackfest, etc.
+* Logo/header – outsource design for a more professional look (try posting this request as an issue for open working during #mozsprint or other hackfests – that's how we got logo suggestions/design help). 
+* Populate online content areas - ideas for content, attend and review events, seek editorial contributors, ask for help via social media, create original content.
 * Refine/improve launch email – ask for feedback and iterate.
-* Get the word out / community building / outreach work - how can you get your newsletter to interested people?
-* Scale - end documentation for other end users, how to start conversation in other cities
+* Community building / outreach work - how can you get your newsletter to interested people and reach different communities in your city? Consider adding a guest section and asking for different voices and perspectives.
+* Scale - sign up for similar newsletters in other cities, start to connect as a network. Talk to local media, offer a help feature on data privacy.
 * Sustainability/governance - find guest editors and proofreaders, check resource/times, regularity of email. 
