@@ -45,4 +45,4 @@ You can also follow @ObservedCity on Twitter, although project development or fe
 
 ## Thank you!
 
-Thanks in advance for your contributions. I'll give an attribution credit to any content/design contributions and will also look at adding a thank-you list of credits to the website post-Global Sprint (May 2018). 
+Thanks in advance for your contributions. I'll give an attribution credit to any content/design contributions and will add a thank-you list of credits to the post-Global Sprint issue of the newsletter (issue 4, May/June 2018). 
